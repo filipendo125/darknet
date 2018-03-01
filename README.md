@@ -1,5 +1,13 @@
 # Yolo-v2 Windows and Linux version
 
+# UPDATE ON MY BRANCH
+
+This branch contains successful CUDA 9.0 + Visual Studio 2017 build. The build can be found: /build/darknet/x64.
+
+Demo video is provided (NY crowd) and webcam video has also been tested. 
+
+
+# ORIGINAL
 [![CircleCI](https://circleci.com/gh/AlexeyAB/darknet.svg?style=svg)](https://circleci.com/gh/AlexeyAB/darknet)
 
 1. [How to use](#how-to-use)
