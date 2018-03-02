@@ -4,7 +4,9 @@
 
 This branch contains successful CUDA 9.0 + Visual Studio 2017 build. The build can be found: /build/darknet/x64.
 
-Demo video is provided (NY crowd) and webcam video has also been tested. 
+Demo video is provided (NY crowd) and webcam video has also been tested, and is fully functional.
+
+Downloads weights from: http://pjreddie.com/darknet/yolo/ and place inside /build/darknet/x64 folder to run
 
 
 # ORIGINAL
