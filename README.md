@@ -2,7 +2,7 @@
 
 # UPDATE ON MY BRANCH
 
-This branch contains successful CUDA 9.0 + Visual Studio 2017 build. The build can be found: /build/darknet/x64.
+This branch contains successful CUDA 9.0 + Visual Studio 2017 + opencv_2.4.13 build. The build can be found: /build/darknet/x64.
 
 Demo video is provided (NY crowd) and webcam video has also been tested, and is fully functional.
 
